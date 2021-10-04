@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tania.papamikrou@gmail.com
+	name = Tania Papamikrou
